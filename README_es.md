@@ -2,17 +2,7 @@
 
 <div align="center">
 
-### 🤝 Agradecimientos Especiales a Nuestro Patrocinador Oro
-
-<a href="https://www.browseract.ai/mediacrawler" target="_blank">
-  <img src="docs/static/images/browseract_ad.jpg" alt="BrowserAct" width="600">
-</a>
-
-<br>
-
-<a href="https://www.browseract.ai/mediacrawler" target="_blank">
-<small>BrowserAct permite extraer datos de cualquier sitio web con una sola frase. Sin código: créalo una vez, reutilízalo de forma estable y consume muy pocos tokens. BrowserAct utiliza un navegador real para crear automáticamente Bots de recolección de datos, con navegación sigilosa, gestión de CAPTCHA y proxies residenciales integrados, y entrega directamente resultados estructurados. Pruébalo gratis ahora.</small>
-</a>
+<sub>📢 Este espacio de patrocinio está disponible · Contacto: <a href="mailto:relakkes@gmail.com">relakkes@gmail.com</a></sub>
 
 </div>
 
@@ -298,34 +288,35 @@ MediaCrawler soporta múltiples métodos de almacenamiento de datos, incluyendo 
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://go.nodemaven.com/MediaCrawlerSeptember"><img src="docs/static/images/nodemaven_banner_sep.png" width="180" alt="NodeMaven"></a>
+        <a href="https://go.nodemaven.com/MediaCrawleroctober"><img src="docs/static/images/nodemaven_banner_oct.png" width="180" alt="NodeMaven"></a>
       </td>
       <td valign="middle">
-        <a href="https://go.nodemaven.com/MediaCrawlerSeptember">NodeMaven</a> es un proveedor eficiente de proxies para web scraping y automatización, con las IP de mayor calidad del mercado. Sus principales ventajas incluyen una disponibilidad del 99,9%, segmentación por código postal, filtrado de IP en todos los proxies (puntuación de fraude inferior al 97%), sin KYC y herramientas gratuitas exclusivas como Proxy Bandwidth Checker, Meta Tag Checker, IP Lookup y más. Los usuarios de MediaCrawler obtienen un 35% de descuento en proxies móviles y residenciales con el código <code>CRAWLER35</code>, y un 40% de descuento en proxies ISP (estáticos) con el código <code>CRAWLER40</code>. 👉 <a href="https://go.nodemaven.com/MediaCrawlerSeptember">Visita NodeMaven</a>
+        <a href="https://go.nodemaven.com/MediaCrawleroctober">NodeMaven</a> es un proveedor eficiente de proxies para web scraping y automatización, con las IP de mayor calidad del mercado. Sus principales ventajas incluyen una disponibilidad del 99,9%, segmentación por código postal, filtrado de IP en todos los proxies (puntuación de fraude inferior al 97%), sin KYC y herramientas gratuitas exclusivas como Proxy Bandwidth Checker, Meta Tag Checker, IP Lookup y más. Los usuarios de MediaCrawler obtienen un 35% de descuento en proxies móviles y residenciales con el código <code>CRAWLER35</code>, y un 40% de descuento en proxies ISP (estáticos) con el código <code>CRAWLER40</code>. Durante el Black Friday, usa el código <code>CRAWLER2X</code> para obtener el doble de tráfico. 👉 <a href="https://go.nodemaven.com/MediaCrawleroctober">Visita NodeMaven</a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.openlux.ai/register?channel=c_drxir46c"><img src="docs/static/images/openlux_logo.png" width="160" alt="OpenLux"></a>
+        <a href="https://dragtokens.com"><img src="docs/static/images/dragtokens_logo.jpg" width="180" alt="DragTokens"></a>
       </td>
       <td valign="middle">
-        ¡Gracias a <a href="https://www.openlux.ai/register?channel=c_drxir46c">OpenLux</a> por patrocinar este proyecto! OpenLux es una plataforma de IA todo en uno para empresas que reúne los principales modelos de IA de los grandes proveedores de todo el mundo. Con un servicio rápido y fiable y un soporte técnico ágil, OpenLux ofrece precios base para los modelos de Claude, OpenAI y Gemini desde tan solo el 8,82%, el 4% y el 8% de las tarifas oficiales, respectivamente. Oferta exclusiva para usuarios de MediaCrawler: regístrese a través de nuestro <a href="https://www.openlux.ai/register?channel=c_drxir46c">enlace de referido</a> y disfrute de hasta un 7,5% de descuento en las recargas de crédito. 👉 <a href="https://www.openlux.ai/register?channel=c_drxir46c">Empiece con OpenLux</a>
+        ¡Gracias a <a href="https://dragtokens.com">DragTokens (Drag API)</a> por patrocinar este proyecto! DragTokens se especializa en ofrecer a los desarrolladores un servicio de retransmisión de API multimodelo, compatible con herramientas de programación con IA como Claude Code, Codex y Gemini CLI, y que cubre modelos principales como GPT, Claude y Gemini. Las tarifas son tan bajas como 1,1× para el grupo dedicado al cliente oficial de Claude (aproximadamente 1,55 de descuento frente a la API oficial, un ahorro del ~84,5%), 0,3× para Codex (aproximadamente 0,42 de descuento, un ahorro del ~96%) y 0,25× para Gemini (aproximadamente 0,35 de descuento, un ahorro del ~96,5%), con un pico de TPM del grupo de cuentas de 700 millones.<br><br>
+        🎁 ¡Los nuevos usuarios que se <a href="https://dragtokens.com">registren mediante este enlace exclusivo</a> reciben un crédito de bienvenida, y una única recarga de 100 CNY también obtiene un 10% de reembolso! La documentación cubre primeros pasos, configuración de herramientas y ejemplos de API, para que tanto la integración como el uso cuenten con una guía. No se almacenan sus prompts ni las respuestas del modelo, y se ofrecen grupos de cuentas dedicados, transferencia corporativa y facturación para equipos empresariales y universitarios.
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://sx.org/c/CRAWLER3G"><img src="docs/static/images/sx_logo.png" width="180" alt="SX.ORG"></a>
+        <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/static/images/mangoproxy_logo_dark.png"><img src="docs/static/images/mangoproxy_logo.png" width="180" alt="MangoProxy"></picture></a>
       </td>
       <td valign="middle">
-        <a href="https://sx.org/c/CRAWLER3G">SX.ORG</a> es una red de proxies de alto rendimiento diseñada para la extracción intensiva de datos web y la evasión de sistemas antibots, totalmente compatible con MediaCrawler. Sus principales ventajas incluyen cobertura de IP residenciales dinámicas en más de 190 ubicaciones, una disponibilidad de red del 99,9%, segmentación precisa por país, ciudad y ASN, soporte nativo de HTTP(S) y SOCKS5, y rotación flexible de sesiones para plataformas de redes sociales. Los usuarios de MediaCrawler pueden utilizar el código promocional exclusivo <code>CRAWLER3G</code> al registrarse para obtener <strong>3 GB</strong> de tráfico de prueba gratuito. 👉 <a href="https://sx.org/c/CRAWLER3G">Obtenga 3 GB en SX.ORG</a>
+        <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github">MangoProxy</a> ofrece proxies residenciales, ISP, de centros de datos y móviles para web scraping, automatización y recopilación de datos. Con más de 90 millones de IP en más de 200 países, admite HTTP(S), SOCKS5, rotación flexible de IP y acceso mediante API. Usa el código <code>CODER</code> para obtener un <strong>7% de descuento en proxies ISP estáticos</strong>. 👉 <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github">Visita MangoProxy</a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://helodata.com?ref=mediacrawler"><img src="docs/static/images/helodata_logo.png" width="180" alt="Helodata"></a>
+        <a href="https://www.thordata.com/?ls=dmr&amp;lk=dmr"><img src="docs/static/images/thordata_logo.png" width="180" alt="ThorData"></a>
       </td>
       <td valign="middle">
-        <a href="https://helodata.com?ref=mediacrawler">Helodata</a> ofrece infraestructura de proxies para web scraping, automatización y recopilación de datos, con cinco líneas de productos: proxies residenciales, ISP estáticos, móviles, de centros de datos y de tráfico ilimitado. Con cobertura en más de 190 países y regiones y más de 80 millones de IP residenciales autorizadas y obtenidas de forma ética, satisface las necesidades de recopilación de datos a distintas escalas y en diversos escenarios. Regístrese a través del <a href="https://helodata.com?ref=mediacrawler">enlace exclusivo</a> y utilice el código promocional <code>MEDIACRAWLER</code> para obtener un <strong>10% de descuento</strong> en todos los productos, además de tráfico de prueba gratuito. <a href="https://helodata.com?ref=mediacrawler">Obtenga su prueba gratuita</a>
+        <a href="https://www.thordata.com/?ls=dmr&amp;lk=dmr">ThorData</a> ofrece una red de proxies con más de 100 millones de IP residenciales en más de 190 países y regiones, con segmentación por país, ciudad y ASN, además de sesiones rotativas y persistentes. Permite a los usuarios de MediaCrawler recopilar contenido público, comentarios y datos de creadores de plataformas como Xiaohongshu, Douyin y Bilibili. La compatibilidad con HTTP(S) y la documentación de la API facilitan la integración con proyectos existentes de Python, Playwright y web scraping. Los proxies residenciales están disponibles desde $0.65/GB, y los usuarios de MediaCrawler pueden obtener una prueba de 3 días sin tarjeta de crédito. Usa el código <code>Crawler10</code> para obtener un <strong>10% de descuento adicional</strong>. 👉 <a href="https://www.thordata.com/?ls=dmr&amp;lk=dmr">Prueba ThorData</a>
       </td>
     </tr>
   </tbody>
@@ -346,8 +337,7 @@ MediaCrawler soporta múltiples métodos de almacenamiento de datos, incluyendo 
 - **Preguntas Frecuentes**: [Documentación Completa de MediaCrawler](https://nanmicoder.github.io/MediaCrawler/)
 
 ### 🧩 Mis Otros Proyectos
-- **Tutorial de Rastreador para Principiantes**: [Tutorial Gratuito CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial)
-- **Proyecto de Código Abierto de Rastreador de Noticias**: [NewsCrawlerCollection](https://github.com/NanmiCoder/NewsCrawlerCollection)
+- **La Startup que Estoy Creando**: [ModelDial](https://modeldial.com/?utm_source=github&utm_medium=referral&utm_campaign=mediacrawler&utm_content=readme-es) — evalúa modelos de IA con conjuntos de datos privados y compara capacidades, costes y niveles de razonamiento para ayudarte a elegir el modelo adecuado para tus tareas
 - **Agente de Escritorio de Código Abierto**: [cc-haha](https://github.com/NanmiCoder/cc-haha) — espacio de trabajo de escritorio local-first y multiplataforma para agentes, con colaboración multi-agente, Git worktrees, mercado de skills, soporte multimodelo y Computer Use, además de acceso remoto por WeChat / Feishu / DingTalk y más
 - **Plugin para DeepSeek Harness**: [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) — añade Agent Teams a DeepSeek Harness para que varios agentes colaboren en paralelo en tareas complejas
 
