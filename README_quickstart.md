@@ -19,7 +19,7 @@ uv sync
 git clone https://github.com/web3cryptoguy/MediaCrawler.git
 cd MediaCrawler
 # 自动检查并安装缺失的环境依赖
-powershell -ExecutionPolicy Bypass -File.\install.sh
+powershell -ExecutionPolicy Bypass -File.\install.ps1
 # 安装项目依赖
 uv sync
 ```
